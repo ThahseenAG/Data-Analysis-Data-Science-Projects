@@ -1,2 +1,3 @@
-# Coursera_Capstone
-Applied Data Science Capstone Project
+# Data Science Projects
+Applied Data Science Project in Analyzing and Visualizing Data
+

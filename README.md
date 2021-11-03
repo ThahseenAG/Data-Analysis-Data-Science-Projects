@@ -18,7 +18,7 @@ Analyse the covid-19 tweets by pre-processing the data(removing stopwords and pu
 Scores are then utilized to categorize Postive, Negative and Neutral Tweets
 
 #### [Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
-Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
+Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
 **Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
 Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
 Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.

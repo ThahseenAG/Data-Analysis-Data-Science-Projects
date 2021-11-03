@@ -7,6 +7,12 @@ Data Analysis & Data Science Projects completed by me for academic and self lear
 
 ### Data Analysis And Visualization
 
+#### [Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
+Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
+**Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
+Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
+Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.
+
 #### [Segmenting and Clustering Neighborhoods in Toronto](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/Segmenting_and_Clustering_Neighborhoods/Segmenting_and_Clustering_Neighborhoods_in_Toront.ipynb)
 **Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
 Extract Toronto Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on Toronto map.
@@ -16,12 +22,6 @@ Foursquare API is used to get the popualr venues in Toronoto.K-Mean Cluster Algo
 **Python, Natural Language Toolkit, Matplotlib**<br />
 Analyse the covid-19 tweets by pre-processing the data(removing stopwords and punctuations) and use NLTK sentiment Intensity Analyzer to get the polarity score of each tweets.
 Scores are then utilized to categorize Postive, Negative and Neutral Tweets
-
-#### [Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
-Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
-**Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
-Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
-Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.
 
 
 #### [Increasing Subscribers for ride sharing app](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Increasing%20subscribers%20for%20ride%20sharing%20App/R-Increasing%20subscribers%20for%20ride%20sharing%20app.pdf)

@@ -18,11 +18,13 @@ Analyse the covid-19 tweets by pre-processing the data(removing stopwords and pu
 Scores are then utilized to categorize Postive, Negative and Neutral Tweets
 
 #### [Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/SELECTING%20THE%20BEST%20NEIGHBORHOOD%20TO%20LIVE%20IN%20NEW%20YORK-ppt.pdf)
-**Python, **<br />
+**Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
+Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
+Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.
 
 
 #### [Increasing Subscribers for ride sharing app](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Increasing%20subscribers%20for%20ride%20sharing%20App/R-Increasing%20subscribers%20for%20ride%20sharing%20app.pdf)
-**R, ggplot**
+**R, ggplot**<br />
 Checking how the subscribed users differ from casual users and recommendation on how to increase subscribers.
 
 #### [Amazon Spending Trend](https://github.com/ThahseenAG/Data-Science-Projects/tree/main/Analysing%20Amazon%20and%20Netflix%20Data) 

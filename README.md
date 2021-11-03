@@ -21,6 +21,10 @@ Scores are then utilized to categorize Postive, Negative and Neutral Tweets
 **Python, **<br />
 
 
+#### [Increasing Subscribers for ride sharing app](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Increasing%20subscribers%20for%20ride%20sharing%20App/R-Increasing%20subscribers%20for%20ride%20sharing%20app.pdf)
+**R, ggplot**
+Checking how the subscribed users differ from casual users and recommendation on how to increase subscribers.
+
 #### [Amazon Spending Trend](https://github.com/ThahseenAG/Data-Science-Projects/tree/main/Analysing%20Amazon%20and%20Netflix%20Data) 
 **Python, Pandas**<br />
 Dig into Amazon spending habit and visualize spending trend

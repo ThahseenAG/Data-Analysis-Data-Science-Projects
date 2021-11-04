@@ -23,6 +23,11 @@ Foursquare API is used to get the popualr venues in Toronoto.K-Mean Cluster Algo
 Analyse the covid-19 tweets by pre-processing the data(removing stopwords and punctuations) and use NLTK sentiment Intensity Analyzer to get the polarity score of each tweets.
 Scores are then utilized to categorize Postive, Negative and Neutral Tweets
 
+#### [Covid19 Data Analysis Using Python](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/COVID19%20DATA%20ANALYSIS%20USING%20PYTHON/covid19%20data%20analysis%20notebook.ipynb)
+**Python, Seaborn, Pandas, Numpy, Matplotlib**<br />
+Used the COVI19 Dataset published by John Hopkins University and merged it with the World happiness report dataset to identify if there
+is any relationship between the spread of the virus in a country and how happy people are in that country. Visualized using seaborn
+
 
 #### [Increasing Subscribers for ride sharing app](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Increasing%20subscribers%20for%20ride%20sharing%20App/R-Increasing%20subscribers%20for%20ride%20sharing%20app.pdf)
 **R, ggplot**<br />

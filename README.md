@@ -1,8 +1,8 @@
 # Data Analysis | Data Science Projects
 Data Analysis & Data Science Projects completed by me for academic and self learning purpose.<br />
 # Tech
-**Language Used**: Python presented in iPythonNotebooks
-                 : R 
+**Language Used**: Python presented in iPythonNotebooks<br/>
+                 : R<br/> 
 ## Projects
 
 ### Data Analysis And Visualization
@@ -17,6 +17,12 @@ Foursquare API is used to get the desired amenities in New York.K-Mean Cluster A
 **Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
 Extract Toronto Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on Toronto map.
 Foursquare API is used to get the popualr venues in Toronoto.K-Mean Cluster Algorthim is used to find out the Neighbprhood with popular venues.
+
+#### [Web Scraping Amazon Customer Reviews and Sentiment Analysis of Reviews ](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Analysing%20Amazon%20and%20Netflix%20Data/Amazon%20Customer%20Review%20Analysis%20using%20Web%20Scraping%20And%20Sentimental%20Analysis.pdf)
+
+**Python, BeautifulSoup, Natural Language Toolkit, plotly express, Matplotlib, WordCloud** <br />
+Extract the top 500 reviews from one of the most reviewd product in Amazon(Harry Potter and the Sorcerer's Stone book). Analyse the Tweets using NLTK vader sentiment Intensity Analyzer to get the polarity score of each reviews.
+
 
 #### [Sentimental Analysis of COVID19 Tweets](https://github.com/ThahseenAG/Data-Science-Projects/tree/main/Sentiment%20Analysis%20on%20COVID19%20Tweets)
 **Python, Natural Language Toolkit, Matplotlib**<br />

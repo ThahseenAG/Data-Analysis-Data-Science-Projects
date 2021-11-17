@@ -1,9 +1,14 @@
 # Data Analysis | Data Science Projects
 Data Analysis & Data Science Projects completed by me for academic and self learning purpose.<br />
 # **Skills Used**
-                 : Python <br/>
-                 : R<br/> 
-                 : SQL<br/>
+                 : Python
+                 : SQL 
+                 : R
+                 : Tableau
+                 : Web Scraping
+                 : NLP - Sentimental Analysis
+                 : Predictive Model
+                 
 ## Projects
 
 #### [Stock Market Price Prediction for Amazon](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Analysing%20Amazon%20and%20Netflix%20Data/Amazon%20Stock%20Market%20Prediction.ipynb)
@@ -12,17 +17,17 @@ Predict the stock price for Amazon using last 10 years of data obtained from Yah
 
 #### [Web Scraping and Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
 Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
-**Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
+**Python, Pandas, Geopy, Intregarting API Folium, Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Web Scraping, Geopy**<br />
 Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
 Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.
 
 
-#### [COVID19 Exploratory Data Analysis Using SQL and Tableau](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Exploratary%20Data%20Analysis/ExploratoryDataAnalysisUsingSQL.sql)
-##### [Tableau]()
-**SQL Tableau**
+#### [COVID19 Exploratory Data Analysis Using SQL](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Exploratary%20Data%20Analysis/ExploratoryDataAnalysisUsingSQL.sql)
+**SQL, JOIN, CTE, Aggregating Functions, Creating Views, Casting**
+Analysing COVID19 Death and Vaccination rate to population in SQL
 
 #### [Web Scraping and Segmenting and Clustering Neighborhoods in Toronto](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/Segmenting_and_Clustering_Neighborhoods/Segmenting_and_Clustering_Neighborhoods_in_Toront.ipynb)
-**Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />
+**Python, Pandas, Geopy, Intregarting API Folium,Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Geopy**<br />
 Extract Toronto Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on Toronto map.
 Foursquare API is used to get the popualr venues in Toronoto.K-Mean Cluster Algorthim is used to find out the Neighbprhood with popular venues.
 

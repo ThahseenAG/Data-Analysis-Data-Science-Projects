@@ -7,6 +7,10 @@ Data Analysis & Data Science Projects completed by me for academic and self lear
 
 ### Data Analysis And Visualization
 
+#### [Stock Market Price Prediction for Amazon](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Analysing%20Amazon%20and%20Netflix%20Data/Amazon%20Stock%20Market%20Prediction.ipynb)
+**Python, Numpy, Matplotlib, sklearn, keras, tensorflow**<br />
+Predict the stock price for Amazon using last 10 years of data obtained from Yahoo finance.Using matplotlib to visualize the data.
+
 #### [Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
 Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
 **Python, Pandas, Geopy, Folium, BeautifulSoup, Foursquare, K-Mean Cluster**<br />

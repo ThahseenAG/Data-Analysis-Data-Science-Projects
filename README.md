@@ -1,13 +1,13 @@
 # Data Analysis | Data Science Projects
 Data Analysis & Data Science Projects completed by me for academic and self learning purpose.<br />
 # **Skills Used**
-                 : Python
-                 : SQL 
-                 : R
-                 : Tableau
-                 : Web Scraping
-                 : NLP - Sentimental Analysis
-                 : Predictive Model
+  **<br/>    Python<br/>   
+      SQL<br/>  
+       R<br/>
+         Tableau<br/>
+         Web Scraping<br/>
+         NLP - Sentimental Analysis<br/>
+         Predictive Model<br/>**
                  
 ## Projects
 
@@ -23,7 +23,7 @@ Foursquare API is used to get the desired amenities in New York.K-Mean Cluster A
 
 
 #### [COVID19 Exploratory Data Analysis Using SQL](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Exploratary%20Data%20Analysis/ExploratoryDataAnalysisUsingSQL.sql)
-**SQL, JOIN, CTE, Aggregating Functions, Creating Views, Casting**
+**SQL, JOIN, CTE, Aggregating Functions, Creating Views, Casting**<br />
 Analysing COVID19 Death and Vaccination rate to population in SQL
 
 #### [Web Scraping and Segmenting and Clustering Neighborhoods in Toronto](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/Segmenting_and_Clustering_Neighborhoods/Segmenting_and_Clustering_Neighborhoods_in_Toront.ipynb)

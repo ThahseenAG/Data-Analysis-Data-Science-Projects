@@ -26,6 +26,11 @@ Foursquare API is used to get the desired amenities in New York.K-Mean Cluster A
 **SQL, JOIN, CTE, Aggregating Functions, Creating Views, Casting**<br />
 Analysing COVID19 Death and Vaccination rate to population in SQL
 
+#### [Tableau Covid Infection Rate Analysis](https://public.tableau.com/app/profile/thasheen.ag/viz/CovidInfectionrateanalysis/Dashboard1?publish=yes)
+**SQL, Tablea**
+Covid Infection rate analysis using tableau
+
+
 #### [Web Scraping and Segmenting and Clustering Neighborhoods in Toronto](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/Segmenting_and_Clustering_Neighborhoods/Segmenting_and_Clustering_Neighborhoods_in_Toront.ipynb)
 **Python, Pandas, Geopy, Intregarting API Folium,Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Geopy**<br />
 Extract Toronto Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on Toronto map.

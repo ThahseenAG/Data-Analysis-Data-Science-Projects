@@ -30,6 +30,9 @@ Analysing COVID19 Death and Vaccination rate to population in SQL
 **SQL, Tablea**
 Covid Infection rate analysis using tableau
 
+#### [Data Cleaning Using SQL](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Exploratary%20Data%20Analysis/Data%20Cleaning.sql)
+**SQL, JOIN, CTE, Aggregating Functions, Creating Views, Casting**<br />
+Cleaning Home Sales Data using SQL
 
 #### [Web Scraping and Segmenting and Clustering Neighborhoods in Toronto](https://github.com/ThahseenAG/Data-Science-Projects/blob/main/Segmenting_and_Clustering_Neighborhoods/Segmenting_and_Clustering_Neighborhoods_in_Toront.ipynb)
 **Python, Pandas, Geopy, Intregarting API Folium,Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Geopy**<br />

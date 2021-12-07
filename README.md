@@ -6,7 +6,7 @@ Data Analysis & Data Science Projects completed by me for academic and self lear
        R<br/>
          Tableau<br/>
          Web Scraping<br/>
-         NLP - Sentimental Analysis<br/>
+         (Natural Language Processing)NLP - Sentimental Analysis<br/>
          Predictive Model<br/>**
                  
 # Projects

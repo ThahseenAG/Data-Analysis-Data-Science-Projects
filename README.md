@@ -15,13 +15,13 @@ Data Analysis & Data Science Projects completed by me for academic and self lear
 
 #### [Stock Market Price Prediction for Amazon](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Analysing%20Amazon%20and%20Netflix%20Data/Amazon%20Stock%20Market%20Prediction.ipynb)
 **Python, Numpy, Matplotlib, sklearn, keras, tensorflow**<br />
-Predict the stock price for Amazon using last 10 years of data obtained from Yahoo finance.Using matplotlib to visualize the data.
+Predict the stock price for Amazon using the last 10 years of data obtained from Yahoo finance.Using matplotlib to visualize the data.
 
 ## Web Scraping | Python
 
 #### [Web Scraping and Selecting The Best Neighborhood to Live in New York Based on the desired Amenities](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/tree/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York)
 Maps are not correctly renderd in GitHub, to view maps and charts please see the [notebook](https://nbviewer.org/github/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Selecting%20the%20best%20Neighborhood%20to%20live%20in%20New%20York/The_Battle_of_Neighborhoods.ipynb) <br/>
-**Python, Pandas, Geopy, Intregarting API Folium, Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Web Scraping, Geopy**<br />
+**Python, Pandas, Geopy, Integratting API Folium, Web Scraping using BeautifulSoup, Foursquare, K-Mean Cluster, Web Scraping, Geopy**<br />
 Extract New York Neighbourhood details from Wikipedia using BeautifulSoup.Using Geopy to Visualize Neighbourhood on New York map.
 Foursquare API is used to get the desired amenities in New York.K-Mean Cluster Algorthim is used to find out the Neighbprhood with all the desired venues.
 
@@ -33,8 +33,8 @@ Foursquare API is used to get the popualr venues in Toronoto.K-Mean Cluster Algo
 ## Web Scraping | Python | NLP
 #### [Web Scraping Amazon Customer Reviews and Sentiment Analysis of Reviews ](https://github.com/ThahseenAG/Data-Analysis-Data-Science-Projects/blob/main/Analysing%20Amazon%20and%20Netflix%20Data/Amazon%20Customer%20Review%20Analysis%20using%20Web%20Scraping%20And%20Sentimental%20Analysis.pdf)
 
-**Python, BeautifulSoup, Natural Language Toolkit, plotly express, Matplotlib, WordCloud** <br />
-Extract the top 500 reviews from one of the most reviewd product in Amazon(Harry Potter and the Sorcerer's Stone book). Analyse the Tweets using NLTK vader sentiment Intensity Analyzer to get the polarity score of each reviews.
+ **Python, BeautifulSoup, Natural Language Toolkit, plotly express, Matplotlib, WordCloud** <br />
+Extract the top 500 reviews from one of the most reviewed products on Amazon(Harry Potter and the Sorcerer's Stone book). Analyse the reviews using NLTK vader sentiment Intensity Analyzer to get the polarity score of each reviews.
 
 
 ## NLP 
